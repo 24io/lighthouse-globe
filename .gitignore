@@ -1,0 +1,6 @@
+/.idea/**
+/__pycache__/**
+/login.py
+debug_image*.pnm
+*.jpg
+*.bmp
